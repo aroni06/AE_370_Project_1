@@ -1,0 +1,4 @@
+numpy>=1.26
+matplotlib>=3.8
+rebound>=4.0     # reference solutions only (verification); never used to advance RK4
+pytest>=8.0
